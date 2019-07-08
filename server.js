@@ -31,7 +31,7 @@ var diner = [
     }
   ];
   
-var table = [
+var tables = [
     {
       id: "1",
       name: "Corner Booth",
